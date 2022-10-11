@@ -1,0 +1,7 @@
+id=JeelsBypasser
+name=JeelsBoobz Bypasser
+version=v1.0.0
+versionCode=100
+author=JeelsBoobz
+description=For bypass login some app.
+updateJson=https://raw.githubusercontent.com/JeelsBoobz/JeelsBypasser/update/updater.json
