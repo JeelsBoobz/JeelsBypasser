@@ -6,7 +6,7 @@ start_service() {
 }
 
 ulimit -SHn 1000000
-inotifyd /data/adb/JeelsBypasser/JeelsBoobz.inotify /data/adb/modules/BypassKuroNew &>> /dev/null &
+inotifyd /data/adb/JeelsBypasser/JeelsBoobz.inotify /data/adb/modules/JeelsBypasser &>> /dev/null &
 echo -n $! > /data/adb/JeelsBypasser/inotifyd.pid
 
 if [ ! -f /data/adb/modules/JeelsBypasser/disable ] ; then

@@ -7,6 +7,9 @@ Program to bypass login some app
 - `127.0.0.1 desu.keqingwangy.my.id`
 
 ## Changelogs
+v1.0.1
+- Added MLBB KuroNew v31.6
+
 v1.0.0
 - Added MLBB KuroNew v31.5
 - Added CODM KuroNew v1.0
