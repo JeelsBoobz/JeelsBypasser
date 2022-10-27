@@ -1,5 +1,5 @@
 # Magisk JeelsBoobz Bypasser
-Program to bypass login some app
+Program to bypass login some app with random key/user.
 
 ## Add to Hosts
 - `127.0.0.1 fakecez.xyz`
@@ -7,6 +7,9 @@ Program to bypass login some app
 - `127.0.0.1 desu.keqingwangy.my.id`
 
 ## Changelogs
+v1.0.2
+- Update MLBB KuroNew v31.8
+
 v1.0.1
 - Added MLBB KuroNew v31.6
 
