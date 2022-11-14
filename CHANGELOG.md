@@ -7,6 +7,9 @@ Program to bypass login some app with random key/user.
 - `127.0.0.1 desu.keqingwangy.my.id`
 
 ## Changelogs
+v1.0.4
+- Fixed CODM Mikasa Injector v1.7.5
+
 v1.0.3
 - Update MLBB KuroNew v40.3
 
