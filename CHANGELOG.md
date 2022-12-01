@@ -1,25 +1,27 @@
-# Magisk JeelsBoobz Bypasser
+# **Magisk JeelsBoobz Bypasser**
 Program to bypass login some app with random key/user.
 
+
 ## Add to Hosts
+> KuroNew
 - `127.0.0.1 fakecez.xyz`
 - `127.0.0.1 kuronew.xyz`
+> Mikasa
 - `127.0.0.1 desu.keqingwangy.my.id`
 
+
 ## Changelogs
-v1.0.4
+> v1.0.5
+- Update MLBB KuroNew v40.4
+> v1.0.4
 - Fixed CODM Mikasa Injector v1.7.5
-
-v1.0.3
+> v1.0.3
 - Update MLBB KuroNew v40.3
-
-v1.0.2
+> v1.0.2
 - Update MLBB KuroNew v31.8
-
-v1.0.1
+> v1.0.1
 - Added MLBB KuroNew v31.6
-
-v1.0.0
+> v1.0.0
 - Added MLBB KuroNew v31.5
 - Added CODM KuroNew v1.0
 - Added CODM Mikasa Injector v1.7.5

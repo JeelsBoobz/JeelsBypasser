@@ -7,7 +7,7 @@ monitor_file=$3
 service_control() {
     if [ "${monitor_file}" = "disable" ] ; then
         if [ "${events}" = "d" ] ; then
-            cd /data/adb/JeelsBypasser 
+            cd /data/adb/JeelsBypasser
             nohup ./JeelsBoobz 
         elif [ "${events}" = "n" ] ; then
             kill -9 $(netstat -tlnp | awk '/127.0.0.1:443 */ {split($NF,a,"/"); print a[1]}')

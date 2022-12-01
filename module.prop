@@ -1,7 +1,7 @@
 id=JeelsBypasser
 name=JeelsBoobz Bypasser
-version=v1.0.4
-versionCode=104
+version=v1.0.5
+versionCode=105
 author=JeelsBoobz
 description=For bypass login some app with random key/user.
 updateJson=https://raw.githubusercontent.com/JeelsBoobz/JeelsBypasser/update/updater.json
