@@ -11,6 +11,8 @@ Program to bypass login some app with random key/user.
 
 
 ## Changelogs
+> v1.0.7
+- Fix Draw Menu MLBB KuroNew v40.9
 > v1.0.6
 - Update MLBB KuroNew v40.9
 > v1.0.5
