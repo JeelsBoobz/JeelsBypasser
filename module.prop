@@ -4,3 +4,4 @@ version=v1.0.8
 versionCode=108
 author=JeelsBoobz
 description=For bypass login some apps.
+updateJson=https://raw.githubusercontent.com/JeelsBoobz/JeelsBypasser/update/updater.json
