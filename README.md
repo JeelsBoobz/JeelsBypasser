@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.0.9
+- Update certificate
 > v1.0.8
 - Refine code
 > v1.0.7
