@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.3
+- Add XERAHAX
 > v1.1.2
 - Add DG HACKS
 > v1.1.1
