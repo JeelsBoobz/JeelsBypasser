@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.2
+- Add DG HACKS
 > v1.1.1
 - Add VVIP ENJOYERS
 > v1.1.0
