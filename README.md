@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.4
+- Fix login VIP Fakecez
 > v1.1.3
 - Add XERAHAX
 > v1.1.2
