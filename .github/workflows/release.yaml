@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload Release
-        uses: JeelsBoobz/action-gh-release@v2
+        uses: JeelsBoobz/action-gh-release@v3
         if: success()
         with:
           tag_name: ${{ steps.version.outputs.release}}
