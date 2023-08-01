@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.7
+- Add KGUi CHEAT
 > v1.1.6
 - Add EREN MODZ
 > v1.1.5
