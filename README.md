@@ -3,8 +3,10 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.6
+- Add EREN MODZ
 > v1.1.5
-- Add ZONA MOD & SYNDICATE
+- Add ZONA MODZ & SYNDICATE
 > v1.1.4
 - Fix login VIP Fakecez
 > v1.1.3
