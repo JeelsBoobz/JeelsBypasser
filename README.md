@@ -3,6 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
+> v1.1.9
+- Add PUBGM SENJU PREMIUM
 > v1.1.8
 - Add SENJU PREMIUM
 > v1.1.7
