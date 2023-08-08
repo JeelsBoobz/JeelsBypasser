@@ -39,12 +39,7 @@ jobs:
         run: |
           CHANGELOG_URL="https://raw.githubusercontent.com/$GITHUB_REPOSITORY/update/CHANGELOG.md"
           get_update_json() {
-            echo "{
-            \"version\": \"${{ steps.version.outputs.release}}\",
-            \"versionCode\": ${{ steps.version.outputs.releaseCode}},
-            \"zipUrl\": \"https://github.com/$GITHUB_REPOSITORY/releases/download/${{ steps.version.outputs.release}}/JeelsBypasser_${{ steps.version.outputs.release}}.zip\",
-            \"changelog\": \"$CHANGELOG_URL\"
-          }"
+            echo -ne "{\n  \"version\": \"${{ steps.version.outputs.release}}\",\n  \"versionCode\": ${{ steps.version.outputs.releaseCode}},\n  \"zipUrl\": \"https://github.com/$GITHUB_REPOSITORY/releases/download/${{ steps.version.outputs.release}}/JeelsBypasser_${{ steps.version.outputs.release}}.zip\",\n  \"changelog\": \"$CHANGELOG_URL\"\n}"
           }
           echo $(get_update_json) > updater.json
       - name: Delete old update branch
