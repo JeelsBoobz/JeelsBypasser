@@ -17,5 +17,5 @@ while true; do
     if [[ $curver != $latver ]]; then
         su -lp 2000 -c "cmd notification post -S bigtext -t 'JeelsBypasser' 'Tag' 'JeelsBypasser update available, please update from Magisk Manager!'"
     fi
-    sleep 60
+    sleep 600
 done
