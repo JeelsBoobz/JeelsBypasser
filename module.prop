@@ -1,7 +1,7 @@
 id=JeelsBypasser
 name=JeelsBoobz Bypasser
-version=v1.2.1
-versionCode=121
+version=v1.2.2
+versionCode=122
 author=JeelsBoobz
 description=For bypass login some apps. (https://t.me/MiTM_Attack)
 updateJson=https://raw.githubusercontent.com/JeelsBoobz/JeelsBypasser/update/updater.json

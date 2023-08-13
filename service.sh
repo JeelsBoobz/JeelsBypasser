@@ -12,7 +12,7 @@ MODDIR=${0%/*}
 # License: GPL V3+
 
 while true; do
-    latver=$(curl --silent "https://api.github.com/repos/$1/releases/latest" | grep '"tag_name":' | grep -oE 'v[0-9.]+')
+    latver=$(curl --silent "https://api.github.com/repos/JeelsBoobz/JeelsBypasser/releases/latest" | grep '"tag_name":' | grep -oE 'v[0-9.]+')
     curver=$(cat $MODDIR/module.prop | grep 'version=' | grep -oE 'v[0-9.]+')
     if [[ $curver != $latver ]]; then
         su -lp 2000 -c "cmd notification post -S bigtext -t 'JeelsBypasser' 'Tag' 'JeelsBypasser update available, please update from Magisk Manager!'"
