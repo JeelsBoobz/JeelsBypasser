@@ -3,9 +3,9 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.0
-- Add update notification
-- Bump version to v1.2.0
+> v1.2.1
+- Minor update version
+- Bump module version to v1.2.1
 > Old
 - Deprecated version
 
