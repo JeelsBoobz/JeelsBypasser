@@ -3,7 +3,7 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.4
+> v1.2.5
 - Update certificate
 > Old
 - Deprecated version
