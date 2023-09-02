@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.5
-- Update certificate
+> v1.2.6
+- Add MLBB Unbeatable
 > Old
 - Deprecated version
 

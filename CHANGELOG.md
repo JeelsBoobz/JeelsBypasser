@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.5
-- Update certificate
+> v1.2.6
+- Add MLBB Unbeatable
 
 
 [![RELEASES](https://img.shields.io/github/downloads/JeelsBoobz/JeelsBypasser/total.svg)](https://github.com/JeelsBoobz/JeelsBypasser/releases)
