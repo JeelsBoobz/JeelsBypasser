@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.6
-- Add MLBB Unbeatable
+> v1.2.7
+- Add PUBGM Rikardi
 > Old
 - Deprecated version
 
