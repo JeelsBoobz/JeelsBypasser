@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.7
-- Add PUBGM Rikardi
+> v1.2.8
+- Add MLBB HATAKE
 > Old
 - Deprecated version
 
