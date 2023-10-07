@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.2.8
-- Add MLBB HATAKE
+> v1.2.9
+- Fix MLBB SENJU
 > Old
 - Deprecated version
 
