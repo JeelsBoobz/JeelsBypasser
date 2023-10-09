@@ -44,7 +44,7 @@ jobs:
           echo $(get_update_json) > updater.json
       - name: Delete old update branch
         run: git push --delete origin update
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: update
           skip_checkout: true
