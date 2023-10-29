@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.0
-- Migration from HATAKE to NOVUZ
+> v1.3.1
+- Add to support with KernelSU
 
 
 [![RELEASES](https://img.shields.io/github/downloads/JeelsBoobz/JeelsBypasser/total.svg)](https://github.com/JeelsBoobz/JeelsBypasser/releases)

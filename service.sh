@@ -11,6 +11,11 @@ MODDIR=${0%/*}
 # Copyright (C) 2019 Geofferey @ XDA
 # License: GPL V3+
 
+if [[ -f /data/adb/ksu/bin/ksud ]] && [[ -f $MODDIR/system/etc/hosts ]]; then
+	chcon u:object_r:system_file:s0 $MODDIR/system/etc/hosts
+	chmod 644 $MODDIR/system/etc/hosts
+	mount --bind $MODDIR/system/etc/hosts /system/etc/hosts
+fi
 while true; do
     latver=$(curl --silent "https://api.github.com/repos/JeelsBoobz/JeelsBypasser/releases/latest" | grep '"tag_name":' | grep -oE 'v[0-9.]+')
     curver=$(cat $MODDIR/module.prop | grep 'version=' | grep -oE 'v[0-9.]+')
