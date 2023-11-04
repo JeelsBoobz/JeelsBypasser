@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.1
-- Add to support with KernelSU
+> v1.3.2
+- Add ZyGames
 > Old
 - Deprecated version
 
