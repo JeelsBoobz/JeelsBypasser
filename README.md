@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.2
-- Add ZyGames
+> v1.3.3
+- Update certificates
 > Old
 - Deprecated version
 
