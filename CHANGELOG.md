@@ -3,7 +3,7 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.3
+> v1.3.4
 - Update certificates
 
 
