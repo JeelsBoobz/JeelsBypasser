@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.4
-- Update certificates
+> v1.3.5
+- Update minor issues
 
 
 [![RELEASES](https://img.shields.io/github/downloads/JeelsBoobz/JeelsBypasser/total.svg)](https://github.com/JeelsBoobz/JeelsBypasser/releases)

@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.4
-- Update certificates
+> v1.3.5
+- Update minor issues
 > Old
 - Deprecated version
 
