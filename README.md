@@ -3,8 +3,8 @@ Program to bypass login some app.
 
 
 ## Changelogs
-> v1.3.5
-- Update minor issues
+> v1.3.6
+- Add MLBB D5STUDIO
 > Old
 - Deprecated version
 
